@@ -17,6 +17,7 @@ IoT-based Automated Parking Solutions
 **OUTPUT RESULT:**
 
 ![output](https://github.com/user-attachments/assets/f404098b-0c78-4cc3-9034-6a4a5c248b48)
+
 Green Boxes → Free parking slots
 
 Red Boxes → Occupied slots
