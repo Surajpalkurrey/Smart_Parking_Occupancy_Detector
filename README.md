@@ -9,7 +9,7 @@ Real-time detection of free/occupied parking spaces,
 Adaptive thresholding and trackbar-based fine-tuning,
 Visual count of available slots overlaid on video.
 
-**Areas of Application**
+**Areas of Application:**
 
 Smart City Infrastructure
 Mall and Commercial Complex Parking Systems,
