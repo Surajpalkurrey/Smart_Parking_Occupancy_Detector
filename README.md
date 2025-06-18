@@ -15,7 +15,7 @@ Smart City Infrastructure
 Mall and Commercial Complex Parking Systems,
 University and Campus Parking Management,
 Airport and Railway Station Parking Monitoring,
-IoT-based Automated Parking Solutions
+IoT-based Automated Parking Solutions.
 
 **OUTPUT RESULT:**
 
