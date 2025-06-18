@@ -1,13 +1,16 @@
-**🛠️ Project Overview**
+**🛠️ Project Overview**:
+
 This project demonstrates a Computer Vision-based Parking Space Counter using OpenCV. It processes a parking lot video stream to detect occupied and free slots by analyzing image features and pixel activity within predefined regions.
 
-**🚀 Features**
+**🚀 Features**:
+
 Interactive marking of parking slots,
 Real-time detection of free/occupied parking spaces,
 Adaptive thresholding and trackbar-based fine-tuning,
 Visual count of available slots overlaid on video.
 
-**🌍 Areas of Application**
+**🌍 Areas of Application**:
+
 Smart City Infrastructure
 Mall and Commercial Complex Parking Systems,
 University and Campus Parking Management,
